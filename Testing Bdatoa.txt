@@ -1,0 +1,9 @@
+Test de mantenibilidad: Bdatoa
+
+Cantidad de lineas total = 407 - 100,00%
+Cantidad de caracteres total = 9372 - 100,00%
+Cantidad de lineas de codigo = 309 - 75,92%
+Cantidad de caracteres de codigo = 8802 - 93,92%
+Cantidad de lineas de comentario = 23 -  5,65%
+Cantidad de caracteres de comentario = 570 -  6,08%
+Cantidad de lineas vacias = 75 - 18,43%
